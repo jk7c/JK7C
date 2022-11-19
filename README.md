@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋, My name Is J. Cuéllar
+----------------------------------------
+#### I am indie game dev.
+I am currently working on a survival game.
+----------------------------------------
+- 🌱 I’m currently learning C++ and web develop 
+- 📫 How to reach me: jrugh@protonmail.com 
+----------------------------------------
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jk7c&show_icons=true&theme=tokyonight)  
 
-<!--
-**jk7c/JK7C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jk7c&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
