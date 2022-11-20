@@ -15,8 +15,8 @@
 
 <p aling= "center">
   <a href = "https://github.com/jk7c">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jk7c&show_icons=true&theme=transparent" />
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk7c&layout=compact&theme=transparent"]/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jk7c&show_icons=true&theme=transparent" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jk7c&layout=compact&theme=transparent"]/>
   </a>
 </p>
 
